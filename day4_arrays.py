@@ -18,3 +18,9 @@
 #     if i%2==0:
 #         count+=1
 # print(count)
+# a = arr.array('i',[1,2,3,4,5,6])
+# count = 0
+# for i in a:
+#     if i%2==0:
+#         count+=1
+# print(count)
