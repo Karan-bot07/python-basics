@@ -79,17 +79,18 @@
 #     print(n3)
 
 # Count vowels in a string
-a = str(input("enter a string:\n"))
-count = 0
-for i in a:
-    if i == 'a':
-        count+=1
-    if i == 'e':
-        count+=1
-    if i == 'i':
-        count+=1
-    if i == 'o':
-        count+=1
-    if i == 'u':
-        count+=1
-print(count)
+# a = str(input("enter a string:\n"))
+# count = 0
+# for i in a:
+#     if i == 'a':
+#         count+=1
+#     if i == 'e':
+#         count+=1
+#     if i == 'i':
+#         count+=1
+#     if i == 'o':
+#         count+=1
+#     if i == 'u':
+#         count+=1
+# print(count)
+
